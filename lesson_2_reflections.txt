@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a folder called .git and creates the metadata needed to start version control on the contents of the directory.
+You need to do it in order to start using version control with Git.
