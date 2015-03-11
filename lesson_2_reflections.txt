@@ -2,3 +2,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Git creates a folder called .git and creates the metadata needed to start version control on the contents of the directory.
 You need to do it in order to start using version control with Git.
+
+
+_-------------------------------------------------------------------------
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It works in between the working directory and the repository. It offers the ability to logically separate files that will be part of the commit from those that won't.
