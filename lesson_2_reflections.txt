@@ -9,3 +9,43 @@ _-------------------------------------------------------------------------
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It works in between the working directory and the repository. It offers the ability to logically separate files that will be part of the commit from those that won't.
+
+---------------------------------------------------------------------------
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Only add files to the staging area if they've had a change. This will allow you to compare files before making the actual commit.
+
+
+=========================================================================
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If there is a plan to make a major change or do some creative changes to the program. Branches allowa programmer to experiment without affecting the original version of the code.
+
+=========================================================================
+How do the diagrams help you visualize the branch structure?
+They give a high level and summarized view of relationships and branch strutctures.
+The allow you to see the parent relationship between commits. They also allow you to keep track of branches and keep them under control.
+
+=========================================================================
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result creates a single branch with the combined commits. We display the branches the way we do for historical readability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
