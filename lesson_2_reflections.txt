@@ -32,6 +32,28 @@ The allow you to see the parent relationship between commits. They also allow yo
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+=========================================================================
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+It is much faster. It reduces the chance of merging files that have been changed by two different developers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The result creates a single branch with the combined commits. We display the branches the way we do for historical readability.
 
 
